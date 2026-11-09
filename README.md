@@ -1,4 +1,3 @@
-<img width="1023" height="574" alt="HRDashboard_Screenshot" src="https://github.com/user-attachments/assets/bbc139d0-81d8-4b34-bc21-67f17428b73e" /># codeaplha_tasks
 
 # 📊 CodeAlpha – Power BI Data Analytics Projects
 
